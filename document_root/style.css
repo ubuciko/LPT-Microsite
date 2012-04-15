@@ -1,0 +1,239 @@
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700);
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 9pt;
+	background-color: #ccc;
+	color: #444;
+	background-image: -webkit-linear-gradient(top, #bbb, #ccc);
+	background-image:    -moz-linear-gradient(top, #bbb, #ccc);
+	background-image:     -ms-linear-gradient(top, #bbb, #ccc);
+	background-image:      -o-linear-gradient(top, #bbb, #ccc);
+	background-repeat: repeat-x;
+}
+
+#wrapper {
+	width: 56em;
+	margin: auto;
+	margin-top: 6em;
+	margin-bottom: 4em;
+	min-width: 460px;
+	box-shadow: 0px 0px 10px #666;
+	border-radius: 3px;
+}
+
+#header {
+	padding: 20px;
+	background: #222;
+	background:-moz-linear-gradient(0% 100% 90deg,#000, #222);
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#222), to(#000));
+	color: #ddd;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+}
+
+img.logo {
+	float: left;
+	width: 50px;
+	margin-right: 1em;
+}
+
+#header h1 {
+	margin: 0;
+	padding: 0;
+}
+
+#header p {
+	margin: 0;
+	padding: 0;
+}
+
+ul.nav				{
+	background: #222;
+	padding:0 5px;
+	font-size:13px;
+	color:#fff;
+	overflow:hidden;
+	background:-moz-linear-gradient(0% 100% 90deg,#222, #000);
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#000), to(#222));
+	list-style-type: none;
+	margin: 0;
+	border-top: solid 3px #F80;
+}
+ul.nav li	{
+	float:left;
+	padding:7px 8px;
+}
+ul.nav li.active {
+	color:#363636;
+	font-weight:bold;
+	background: #333;
+}
+ul.nav li:hover	{
+	background:#444;
+	cursor:pointer;
+}
+ul.nav a {
+	color: #ccc;
+	text-decoration:none;
+}
+
+#floatr {
+	float:right;
+}
+
+#content {
+	padding: 20px;
+	background-color: #fff;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+#content h2 {
+	border-bottom: 1px solid #ccc;
+}
+
+#content img.floatr {
+	float: right;
+	width: 275px;
+	border: 1px solid #ccc;
+	padding: 2px;
+	background-color: #fff;
+	margin: 0px 0px 20px 20px;
+}
+
+#content a.p {
+	color: #f80;
+	text-decoration: none;
+}
+
+#content a.p:hover {
+	text-decoration: underline;
+}
+
+p.extern {
+	padding-top: 1em;
+	text-align: center;
+}
+
+p.extern a {
+	color: #444;
+	background: #ddd;
+	padding: 10px 7px;
+	margin-right: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 10.5pt;
+	border-bottom: 3px solid #ccc;
+	border-radius: 5px;
+}
+
+p.extern a:hover {
+	color: #444;
+	background: #ccc;
+	border-bottom: 3px solid #f80;
+}
+
+p.extern img {
+	width: 24px;
+	margin-right: 5px;
+	vertical-align: text-bottom;
+}
+
+iframe.cframe {
+	border: 1px solid #ccc;
+	padding: 2px;
+}
+
+input.text {
+	outline: none;
+	border: 1px solid #bbb;
+	border-top: none;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10pt;
+	width: 25em;
+	background: #eee;
+	background:-moz-linear-gradient(0% 100% 90deg,#ddd, #fff);
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ddd));
+	padding: 10px;
+	margin: 5px 0px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+textarea.anmerkungen {
+	outline: none;
+	border: 1px solid #bbb;
+	border-top: none;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10pt;
+	width: 25em;
+	background: #eee;
+	background:-moz-linear-gradient(0% 100% 90deg,#ddd, #fff);
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ddd));
+	padding: 10px;
+	margin: 5px 0px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+input.text:focus {
+	background: #fff;
+	border: 1px solid #f80;
+	border-top: none;
+	background:-moz-linear-gradient(0% 100% 90deg,#eee, #fff);
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#eee));
+}
+
+textarea.anmerkungen:focus {
+	background: #fff;
+	border: 1px solid #f80;
+	border-top: none;
+	background:-moz-linear-gradient(0% 100% 90deg,#eee, #fff);
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#eee));
+}
+
+input.button {
+	color: #444;
+	background: #ddd;
+	padding: 7px 15px;
+	margin-right: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 10.5pt;
+	border: none;
+	border-bottom: 3px solid #ccc;
+	border-radius: 5px;
+}
+
+input.button:hover {
+	color: #444;
+	background: #ccc;
+	border-bottom: 3px solid #f80;
+	cursor:pointer;
+}
+
+table.preise {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 10.5pt;
+	border-radius: 0px 0px 5px 5px;
+}
+
+table.preise td {
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+
+table.preise tr:hover {
+	background: #ddd;
+	border-bottom: 2px solid #f80;
+	background:-moz-linear-gradient(0% 100% 90deg,#ddd, #eee);
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#eee), to(#ddd));
+}
+
+table.preise th {
+	padding-bottom: 5px;
+	background: #fff;
+}
