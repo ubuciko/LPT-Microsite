@@ -49,17 +49,32 @@
 				schon vor dem Parteitag ein Bild von ihnen zu machen und um Dich selbst
 				vorzustellen.</p>
 				
-				<h2>Tagesordnung</h2>
+				<h2>Vorl&auml;ufige Tagesordnung</h2>
 				<ul>
-					<li>Er&ouml;ffnung durch den Landesvorstand</li>
-					<li>Vorstellung der Kandidaten f&uuml;r den Versammlungsleiter</li>
-					<li>Wahl des Versammlungsleiter</li>
-					<li>Wahl der Protokollanten</li>
+					<li>TOP 1: Begr&uuml;&szlig;ung durch den Landesvorstand </li>
+					<li>TOP 2: Wahl der Versammlungs&auml;mter; Zulassung von Presse, G&auml;sten, Ton- und Filmaufnahmen und evtl. Gastreden </li>
+					<li>TOP 3: Beschluss der Tages- und Gesch&auml;ftsordnung </li>
+					<li>TOP 4: Wahl der Rechnungspr&uuml;fer </li>
+					<li>TOP 5: Satzungs&auml;nderungsantr&auml;ge betreffend den Landesvorstand, den Landesparteitag, das Schiedsgericht oder die Einf&uuml;hrung neuer Parteiorgane </li>
+					<li>TOP 6: T&auml;tigkeitsberichte des Vorstands </li>
+					<li>TOP 7: Bericht der Rechnungspr&uuml;fer, Entlastung des Vorstands </li>
+					<li>TOP 8: Wahl des Landesvorstands (Vorsitzender, stellvertretender Vorsitzender, Schatzmeister, Generalsekret&auml;r, politischer Gesch&auml;ftsf&uuml;hrer, Beisitzer sowie eventuell eingef&uuml;hrte weitere &Auml;mter) </li>
+					<li>TOP 9: Arbeitsbericht des Landesschiedsgerichts </li>
+					<li>TOP 9a: Wahl des Landesschiedsgerichts und der Ersatzschiedsrichter </li>
+					<li>TOP 10: Wahl der Kassenpr&uuml;fer </li>
+					<li>TOP 11: Wahl der Mitglieder des Finanzrates </li>
+					<li>TOP 12: Wahl der Moderatoren der Th&uuml;ringer Mailingliste </li>
+					<li>TOP 13: Satzungs&auml;nderungsantr&auml;ge </li>
+					<li>TOP 14: Programm&auml;nderungsantr&auml;ge </li>
+					<li>TOP 15: Positionspapiere und sonstige Antr&auml;ge </li>
+					<li>TOP 16: Verschiedenes </li>
+					<li>TOP 17: Schlie&szlig;ung des Parteitags </li>
+
 				</ul>
 				
 				<h2>Externe Medien</h2>
 				<p class="extern">
-					<a href="http://www.piraten-streaming.de/"><img src="stream.png" />Live-Stream vom LPT</a>
+					<a href="http://www.piraten-streaming.de/?page_id=688&id=299"><img src="stream.png" />Live-Stream vom LPT</a>
 					<a href="http://wiki.piraten-thueringen.de/TH:Landesparteitag_2012.1/Antragsfabrik"><img src="antragsfabrik.png" />Antragsfabrik</a>
 					<a href=""><img src="antragsbuch.png" />Antragsbuch herunterladen</a>
 				</p>
