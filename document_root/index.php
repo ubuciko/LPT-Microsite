@@ -27,7 +27,7 @@
 				<h2>Eckdaten</h2>
 				
 				<p>
-					<strong>Datum:</strong> 12. Mai 2012<br />
+					<strong>Datum:</strong> 12. und 13. Mai 2012<br />
 					<strong>Akkreditierung</strong> ab 9 Uhr<br />
 					<strong>Beginn</strong> ab 10 Uhr<br />
 				</p>
