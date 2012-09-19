@@ -2,7 +2,7 @@ Basierend auf [ubuciko/LPT-Microsite](https://github.com/ubuciko/LPT-Microsite) 
 
 **Änderungen gegenüber dem Original:**
 * Stimmzettel-Bild in index.php ausgetauscht durch Twitter-Widget
-* 
+
 
 **Twitter-Widget anpassen**
-Um das Twitter-Widget anzupassen einfach die entsprechenden Daten in *twitdget.js* bearbeiten
+Um das Twitter-Widget anzupassen einfach die entsprechenden Daten in *twidget.js* bearbeiten

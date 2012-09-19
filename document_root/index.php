@@ -20,13 +20,13 @@
 				<li class="active"><a href="index.php">Hauptseite</a></li>
 				<li><a href="anmeldung.php">Anmeldung</a></li>
 				<li><a href="anfahrt.php">Anfahrt</a></li>
-				<li><a href="verpflegung.php">Verpflegung & übernachtung</a></li>
+				<li><a href="verpflegung.php">Verpflegung &amp; übernachtung</a></li>
 				<li><a href="presse.php">Presse</a></li>
-				<li><a href="impressum.php">Impressum & Kontakt</a></li>
+				<li><a href="impressum.php">Impressum &amp; Kontakt</a></li>
 			</ul>
 			<div id="content">
-				<!-- <img src="stimmkarte.jpg" class="floatr" /> -->
 				<script type="text/javascript" src="twidget.js"></script>
+				
 				<h2>Eckdaten</h2>
 				
 				<p>
@@ -37,42 +37,41 @@
 				<h3>Veranstaltungsort:</h3>
 				<p>
 					<strong>Bürgerhaus Erfurt-Schmira</strong><br />
-					Seestra&szlig;e 18<br />
+					Seestraße 18<br />
 					99094 Erfurt-Schmira<br />
 				</p>
 				<h2>Was passiert auf dem Landesparteitag?</h2>
 				<p>Auf dem Parteitag werden der Landesvorstand, das Schiedsgericht sowie
-				die Kassenprüfer gew&auml;hlt. Zudem k&ouml;nnen Programm&auml;nderungsantr&auml;ge,
-				Satzungs&auml;nderungsantr&auml;ge, sonstige Antr&auml;ge und Positionspapiere
+				die Kassenprüfer gewählt. Zudem können Programmänderungsanträge,
+				Satzungsänderungsanträge, sonstige Anträge und Positionspapiere
 				eingereicht und abgestimmt werden.</p>
 
-				<p>Wenn Du für ein Amt kandidieren m&ouml;chtest, so trag Dich bitte in die
+				<p>Wenn Du für ein Amt kandidieren möchtest, so trag Dich bitte in die
 				<a href="http://wiki.piraten-thueringen.de/TH:Landesparteitag_2012.1/Kandidatenliste" class="p">Kandidatenliste im Wiki</a> ein. Dort
 				kannst Du Dich auch über die bisherigen Kandidaten informieren, um Dir
 				schon vor dem Parteitag ein Bild von ihnen zu machen und um Dich selbst
 				vorzustellen.</p>
 				
-				<h2>Vorl&auml;ufige Tagesordnung</h2>
+				<h2>Vorläufige Tagesordnung</h2>
 				<ul>
-					<li>TOP 1: Begrü&szlig;ung durch den Landesvorstand </li>
-					<li>TOP 2: Wahl der Versammlungs&auml;mter; Zulassung von Presse, G&auml;sten, Ton- und Filmaufnahmen und evtl. Gastreden </li>
-					<li>TOP 3: Beschluss der Tages- und Gesch&auml;ftsordnung </li>
+					<li>TOP 1: Begrüßung durch den Landesvorstand </li>
+					<li>TOP 2: Wahl der Versammlungsämter; Zulassung von Presse, Gästen, Ton- und Filmaufnahmen und evtl. Gastreden </li>
+					<li>TOP 3: Beschluss der Tages- und Geschäftsordnung </li>
 					<li>TOP 4: Wahl der Rechnungsprüfer </li>
-					<li>TOP 5: Satzungs&auml;nderungsantr&auml;ge betreffend den Landesvorstand, den Landesparteitag, das Schiedsgericht oder die Einführung neuer Parteiorgane </li>
-					<li>TOP 6: T&auml;tigkeitsberichte des Vorstands </li>
+					<li>TOP 5: Satzungsänderungsanträge betreffend den Landesvorstand, den Landesparteitag, das Schiedsgericht oder die Einführung neuer Parteiorgane </li>
+					<li>TOP 6: Tätigkeitsberichte des Vorstands </li>
 					<li>TOP 7: Bericht der Rechnungsprüfer, Entlastung des Vorstands </li>
-					<li>TOP 8: Wahl des Landesvorstands (Vorsitzender, stellvertretender Vorsitzender, Schatzmeister, Generalsekret&auml;r, politischer Gesch&auml;ftsführer, Beisitzer sowie eventuell eingeführte weitere &Auml;mter) </li>
+					<li>TOP 8: Wahl des Landesvorstands (Vorsitzender, stellvertretender Vorsitzender, Schatzmeister, Generalsekretär, politischer Geschäftsführer, Beisitzer sowie eventuell eingeführte weitere ämter) </li>
 					<li>TOP 9: Arbeitsbericht des Landesschiedsgerichts </li>
 					<li>TOP 9a: Wahl des Landesschiedsgerichts und der Ersatzschiedsrichter </li>
 					<li>TOP 10: Wahl der Kassenprüfer </li>
 					<li>TOP 11: Wahl der Mitglieder des Finanzrates </li>
 					<li>TOP 12: Wahl der Moderatoren der Thüringer Mailingliste </li>
-					<li>TOP 13: Satzungs&auml;nderungsantr&auml;ge </li>
-					<li>TOP 14: Programm&auml;nderungsantr&auml;ge </li>
-					<li>TOP 15: Positionspapiere und sonstige Antr&auml;ge </li>
+					<li>TOP 13: Satzungsänderungsanträge </li>
+					<li>TOP 14: Programmänderungsanträge </li>
+					<li>TOP 15: Positionspapiere und sonstige Anträge </li>
 					<li>TOP 16: Verschiedenes </li>
-					<li>TOP 17: Schlie&szlig;ung des Parteitags </li>
-
+					<li>TOP 17: Schließung des Parteitags </li>
 				</ul>
 				
 				<h2>Externe Medien</h2>
