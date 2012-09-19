@@ -237,3 +237,11 @@ table.preise th {
 	padding-bottom: 5px;
 	background: #fff;
 }
+
+#content div.twtr-widget {
+    float: right;
+    width: 250px;
+    padding-left: 5px;
+    background-color: #fff;
+    margin: 0px 0px 20px 20px;
+}

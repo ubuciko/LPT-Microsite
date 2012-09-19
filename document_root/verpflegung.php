@@ -1,36 +1,39 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--  Piratenpartei LV Thüringen – LPT-Microsite -->
-<html xmlns="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
 	<head>
-		<title>Landesparteitag der PIRATEN Th&uuml;ringen 2012</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="Diese Seite basiert auf https://github.com/ubuciko/LPT-Microsite verwendet unter CC-BY-NC 3.0 – http://creativecommons.org/licenses/by-nc/3.0/"/>
+
+		<title>Landesparteitag/Aufstellungsversammlung der PIRATEN Thüringen 2012</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
-		<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
 	</head>
+
 	<body>
 		<div id="wrapper">
 			<div id="header">
-				<img src="logo.png" class="logo" />
-				<h1>#lptth12</h1>
-				<p>Der Landesparteitag der PIRATEN Th&uuml;ringen</p>
+				<img src="logo.png" class="logo" alt="Piratenpartei Logo" />
+				<h1>#lptavth</h1>
+				<p>Landesparteitag und Aufstellungsversammlung der PIRATEN Thüringen</p>
 			</div>
 			<ul class="nav">
 				<li><a href="index.php">Hauptseite</a></li>
 				<li><a href="anmeldung.php">Anmeldung</a></li>
 				<li><a href="anfahrt.php">Anfahrt</a></li>
-				<li class="active"><a href="verpflegung.php">Verpflegung &amp; &Uuml;bernachtung</a></li>
+				<li class="active"><a href="verpflegung.php">Verpflegung &amp; Übernachtung</a></li>
 				<li><a href="presse.php">Presse</a></li>
 				<li><a href="impressum.php">Impressum &amp; Kontakt</a></li>
 			</ul>
 			<div id="content">
-				<img src="schnittchen.jpg" class="floatr" />
-				<p>Speisen und Getr&auml;nke sind w&auml;hrend des Parteitages vor Ort direkt vom Landesverband zum Selbstkostenpreis erh&auml;ltlich. Das Mitbringen der eigenen Verpflegung ist ausdr&uuml;cklich gestattet, in fu&szlig;l&auml;ufiger N&auml;he befinden sich verschiedene Einkaufsm&ouml;glichkeiten.</p>
+				<img src="schnittchen.jpg" class="floatr" alt="Schnittchen" />
+				<p>Speisen und Getränke sind während des Parteitages vor Ort direkt vom Landesverband zum Selbstkostenpreis erhältlich. Das Mitbringen der eigenen Verpflegung ist ausdrücklich gestattet, in fußläufiger Nähe befinden sich verschiedene Einkaufsmöglichkeiten.</p>
 				<h2>Speisen</h2>
 				<ul>
-					<li>Der konkrete Speiseplan steht zum jetzigen Zeitpunkt noch nicht fest.</li>
+					<li>---TODO---</li>
 				</ul>
-				<h2>Getr&auml;nke</h2>
-				<h3>Vorl&auml;ufige Getr&auml;nkepreise:</h3>
+				<h2>Getränke</h2>
+				<h3>Vorläufige Getränkepreise:</h3>
+				---TODO---
 				<table class="preise">
 					<tr>
 						<th></th>
@@ -48,7 +51,7 @@
 						<td>1,00 Euro</td>
 					</tr>
 					<tr>
-						<td>Verschiedene S&auml;fte (Apfel, Orange, Kirsch-Banane)</td>
+						<td>Verschiedene Säfte (Apfel, Orange, Kirsch-Banane)</td>
 						<td>0,50 Euro</td>
 						<td>-</td>
 					</tr>
@@ -73,20 +76,16 @@
 						<td>1,00 Euro</td>
 					</tr>
 				</table>
-				<h2>&Uuml;bernachtung</h3>
-				<p>Je nach Geschmack und Geldbeutel gibt es verschiedene &Uuml;bernachtungsm&ouml;glichkeiten.</p>
+				<h2>Übernachtung</h2>
+				<p>Je nach Geschmack und Geldbeutel gibt es verschiedene übernachtungsmöglichkeiten.</p>
 				<h3>Hotels</h3>
-				<p>Wenn du ein Hotel oder eine Pension buchen m&ouml;chtest, wende dich bitte an die <a href="http://www.erfurt-tourismus.de/cms/website.php" class="p">Tourist-Information Erfurt</a>.</p>
+				<p>---TODO---</p>
 				<h3>Jugendherbergen</h3>
 				<ul>
-					<li><a href="http://www.djh-thueringen.de/20_jh_unserhaus.html" class="p">Jugendherberge Hochheimer Stra&szlig;e</a></li>
-					<li><a href="http://www.djh-thueringen.de/21_jh_unserhaus.html" class="p">Jugendherberge Klingenstra&szlig;e</a></li>
-					<li><a href="http://www.djh-thueringen.de/jugendherbergen.html" class="p">Weitere Jugendherbergen unter djh-thueringen.de</a></a></li>
+					<li>---TODO---</li>
 				</ul>
 				<h3>Indoor-Camping</h3>
-				<p>
-				F&uuml;r Unerschrockene besteht die M&ouml;glichkeit, mit einer Iso-Matte oder Luftmatratze direkt am Veranstaltungsort zu &uuml;bernachten.
-				</p>
+				<p>Für Unerschrockene besteht die Möglichkeit, mit einer Iso-Matte oder Luftmatratze direkt am Veranstaltungsort zu übernachten.</p>
 			</div>
 		</div>
 	</body>
