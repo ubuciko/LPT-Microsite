@@ -3,7 +3,7 @@ new TWTR.Widget({
 	type: 'search',
 	search: '#lptavth',
 	interval: 30000,
-	title: '2. Landesparteitag 2012 und Aufstellungsversammlung<br>der PIRATEN Thüringen',
+	/*title: '2. Landesparteitag 2012 und Aufstellungsversammlung der PIRATEN Thüringen',*/
 	subject: 'Livetweets zu #lptavth',
 	width: 250,
 	height: 300,
