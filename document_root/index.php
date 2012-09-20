@@ -3,7 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<meta name="description" content="Diese Seite basiert auf https://github.com/ubuciko/LPT-Microsite verwendet unter CC-BY-NC 3.0 – http://creativecommons.org/licenses/by-nc/3.0/"/>
+		<meta name="author" content="@ubuciko und @HorayNarea" />
+		<meta name="description" content="Microsite mit Anmeldeformular und Twitter-Widget für Parteitage und Ähnliches - steht unter CC-BY-NC 3.0" />
 
 		<title>Landesparteitag/Aufstellungsversammlung der PIRATEN Thüringen 2012</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
