@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta name="author" content="@ubuciko und @HorayNarea" />
@@ -27,6 +27,7 @@
 			</ul>
 			<div id="content">
 				<?php
+					require_once('mysql-config.php');
 					require_once('recaptchalib.php');
 					$privatekey = "6LdgM88SAAAAAGMjteQOU4_3tzmnkGsjJgM9c2am";
 					$resp = recaptcha_check_answer ($privatekey,
@@ -43,8 +44,8 @@
 					}
 					
 					
-					$con = mysql_connect("db_host_here", "db_user_here", "db_pass_here") or die ("Verbindung zum Datenbankserver fehlgeschlagen");  
-					mysql_select_db("db_name_here", $con) or die ("Verbindung zur Datenbank fehlgeschlagen"); 
+					$con = mysql_connect($sql_host, $sql_user, $sql_pass) or die ("Verbindung zum Datenbankserver fehlgeschlagen");  
+					mysql_select_db($sql_db, $con) or die ("Verbindung zur Datenbank fehlgeschlagen"); 
 
 					if (get_magic_quotes_gpc() == 1) 
 					{ 
@@ -58,7 +59,7 @@
 					$_POST['anreise'] = mysql_real_escape_string($_POST['anreise']); 
 					$_POST['anmerkungen'] = mysql_real_escape_string($_POST['anmerkungen']); 
 
-					$sql = "INSERT INTO `lptest` (`Name`,`Mail`,`Mitglied`,`Anreisetag`,`Anmerkungen`) 
+					$sql = "INSERT INTO `$sql_table` (`Name`,`Mail`,`Mitglied`,`Anreisetag`,`Anmerkungen`) 
 										VALUES ('".$_POST['name']."', '".$_POST['mail']."', '".$_POST['mitglied']."', '".$_POST['anreise']."', '".$_POST['anmerkungen']."');"; 
 
 					$result = mysql_query($sql,$con); 
