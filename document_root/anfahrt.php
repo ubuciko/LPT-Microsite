@@ -32,16 +32,11 @@
 				Friedrich-Ebert-Str. 8a<br />
 				07607 Eisenberg<br />
 				</p>
-				<h2>Anfahrt mit dem PKW</h2>
-				<p>---TODO---</p>
-				<h2>Anfahrt mit öffentlichen Verkehrsmitteln</h2>
-				<p>---TODO---</p>
 				<h2>Anfahrtsskizze</h2>
-				---TODO---
-				<!-- <iframe width="580" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=10.9352,50.9427,10.9916,50.9735&amp;layer=mapnik&amp;marker=50.95397,10.97344" class="cframe"></iframe> -->
+				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=11.89517,50.96753,11.9039,50.97167&amp;layer=mapnik&amp;marker=50.96950,11.89958" class="cframe"></iframe>
 				<h2>Externe Medien</h2>
 				<p class="extern">
-					<a href=""><img src="route.png" alt="Route" />Routenplaner</a>
+					<a href="http://goo.gl/maps/3YNt1"><img src="route.png" alt="Route" />Routenplaner</a>
 				</p>
 			</div>
 		</div>

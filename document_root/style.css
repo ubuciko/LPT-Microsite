@@ -78,10 +78,6 @@ ul.nav a {
 	text-decoration:none;
 }
 
-#floatr {
-	float:right;
-}
-
 #content {
 	padding: 20px;
 	background-color: #fff;
@@ -211,30 +207,6 @@ input.button:hover {
 	background: #ccc;
 	border-bottom: 3px solid #f80;
 	cursor:pointer;
-}
-
-table.preise {
-	width: 100%;
-	border-collapse: collapse;
-	font-size: 10.5pt;
-	border-radius: 0px 0px 5px 5px;
-}
-
-table.preise td {
-	border: 1px solid #ddd;
-	padding: 5px;
-}
-
-table.preise tr:hover {
-	background: #ddd;
-	border-bottom: 2px solid #f80;
-	background:-moz-linear-gradient(0% 100% 90deg,#ddd, #eee);
-	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#eee), to(#ddd));
-}
-
-table.preise th {
-	padding-bottom: 5px;
-	background: #fff;
 }
 
 #content div.twtr-widget {

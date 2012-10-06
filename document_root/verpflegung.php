@@ -28,65 +28,21 @@
 			<div id="content">
 				<img src="schnittchen.jpg" class="floatr" alt="Schnittchen" />
 				<p>Speisen und Getränke sind während des Parteitages vor Ort direkt vom Landesverband zum Selbstkostenpreis erhältlich. Das Mitbringen der eigenen Verpflegung ist ausdrücklich gestattet, in fußläufiger Nähe befinden sich verschiedene Einkaufsmöglichkeiten.</p>
-				<h2>Speisen</h2>
-				<ul>
-					<li>---TODO---</li>
-				</ul>
-				<h2>Getränke</h2>
-				<h3>Vorläufige Getränkepreise:</h3>
-				---TODO---
-				<table class="preise">
-					<tr>
-						<th></th>
-						<th>Becher</th>
-						<th>Flasche</th>
-					</tr>
-					<tr>
-						<td>Kaffee</td>
-						<td>0,50 Euro</td>
-						<td>-</td>
-					</tr>
-					<tr>
-						<td>Mineralwasser</td>
-						<td>0,50 Euro</td>
-						<td>1,00 Euro</td>
-					</tr>
-					<tr>
-						<td>Verschiedene Säfte (Apfel, Orange, Kirsch-Banane)</td>
-						<td>0,50 Euro</td>
-						<td>-</td>
-					</tr>
-					<tr>
-						<td>Club-Mate</td>
-						<td>-</td>
-						<td>1,00 Euro</td>
-					</tr>
-					<tr>
-						<td>Vita-Cola</td>
-						<td>0,50 Euro</td>
-						<td>1,00 Euro</td>
-					</tr>
-					<tr>
-						<td>Pepsi-Max</td>
-						<td>0,50 Euro</td>
-						<td>1,00 Euro</td>
-					</tr>
-					<tr>
-						<td>Bier</td>
-						<td>-</td>
-						<td>1,00 Euro</td>
-					</tr>
-				</table>
 				<h2>Übernachtung</h2>
-				<p>Je nach Geschmack und Geldbeutel gibt es verschiedene übernachtungsmöglichkeiten.</p>
 				<h3>Hotels</h3>
-				<p>---TODO---</p>
-				<h3>Jugendherbergen</h3>
 				<ul>
-					<li>---TODO---</li>
+					<li><a href="http://www.mohrenbrunnen.de" target="_blank">Hotel und Gästehaus Mohrenbrunnen Eisenberg (Einzelzimmer 40EUR)</a></li>
+					<li><a href="http://www.trendtino.com" target="_blank">Trendtino (Einzelzimmer 29EUR)</a></li>
+					<li><a href="http://www.hotel-domicil-eisenberg.com" target="_blank">Hotel Domicil (Einzelzimmer 34EUR)</a></li>
+					<li><a href="http://pension.goart.de" target="_blank">Hotel le petit (Einzelzimmer 25-30EUR)</a></li>
+					<li><a href="http://www.hotel-friedrichs-tanneck.de" target="_blank">Hotel "Friedrichs-Tanneck"</a></li>
 				</ul>
 				<h3>Indoor-Camping</h3>
-				<p>Für Unerschrockene besteht die Möglichkeit, mit einer Iso-Matte oder Luftmatratze direkt am Veranstaltungsort zu übernachten.</p>
+				<ul>
+					<li>In der beheizten Halle kann von Freitag Abend bis Sonntag übernachtet werden.</li> 
+					<li>Es sind ausreichend Sanitäranlagen, auch inklusive Duschen vorhanden.</li>
+					<li>Gepäck, inklusive Schlafsäcke und Iso-Matten, kann während der Veranstaltungen in einem abgeschlossenem Raum verstaut werden.</li>
+				</ul>
 			</div>
 		</div>
 	</body>
