@@ -1,14 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<meta name="author" content="@ubuciko und @HorayNarea" />
-		<meta name="description" content="Microsite mit Anmeldeformular und Twitter-Widget für Parteitage und Ähnliches - steht unter CC-BY-NC 3.0" />
-
-		<title>Landesparteitag/Aufstellungsversammlung der PIRATEN Thüringen 2012</title>
-		<link rel="stylesheet" type="text/css" href="style.css" />
-	</head>
+<?php
+require('head.php');
+?>
 
 	<body>
 		<div id="wrapper">
@@ -29,7 +21,7 @@
 				<h2>Presseakkreditierung</h2>
 				<p>Sehr geehrte Pressevertreter,</p>
 				<p>wir laden Sie herzlich zum Landesparteitag der PIRATEN Thüringen am 3./4. November in die Stadthalle Eisenberg, Friedrich-Ebert-Str. 8a, 07607 Eisenberg ein.</p>
-				<p><strong>Die Presseakkreditierung findet an beiden Tagen ab x Uhr statt.</strong></p>
+				<p><strong>Die Presseakkreditierung findet an beiden Tagen ab 9 Uhr statt.</strong></p>
 				<p>Die Pressemappe zum Landesparteitag finden Sie hier als Download:</p>
 				<p class="extern">
 					<a href="http://www.piraten-thueringen.de/wp-content/uploads/2012/08/Pressemappe_August_2012.pdf"><img src="pdf.png" alt="PDF Logo" />Pressemappe</a>

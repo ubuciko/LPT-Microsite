@@ -1,15 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<meta name="author" content="@ubuciko und @HorayNarea" />
-		<meta name="description" content="Microsite mit Anmeldeformular und Twitter-Widget für Parteitage und Ähnliches - steht unter CC-BY-NC 3.0" />
-
-		<title>Landesparteitag/Aufstellungsversammlung der PIRATEN Thüringen 2012</title>
-		<link rel="stylesheet" type="text/css" href="style.css" />
-		<script type="text/javascript" charset="UTF-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
-	</head>
+<?php
+require('head.php');
+?>
 
 	<body>
 		<div id="wrapper">
@@ -27,8 +18,7 @@
 				<li><a href="impressum.php">Impressum &amp; Kontakt</a></li>
 			</ul>
 			<div id="content">
-				<script type="text/javascript" charset="UTF-8" src="twidget.js"></script>
-					
+				<iframe class="twtr-widget" height="350px" width="250px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="twidget.php"></iframe>	
 				<h2>Eckdaten</h2>
 				<p>
 					<strong>Datum:</strong> 3. und 4. November 2012<br />

@@ -209,10 +209,9 @@ input.button:hover {
 	cursor:pointer;
 }
 
-#content div.twtr-widget {
+#content iframe.twtr-widget {
     float: right;
     width: 250px;
     padding-left: 5px;
-    background-color: #fff;
     margin: 0px 0px 20px 20px;
 }
