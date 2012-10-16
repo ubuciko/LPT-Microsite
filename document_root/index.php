@@ -18,7 +18,7 @@ require('head.php');
 				<li><a href="impressum.php">Impressum &amp; Kontakt</a></li>
 			</ul>
 			<div id="content">
-				<iframe class="twtr-widget" height="350px" width="250px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="twidget.php"></iframe>	
+				<iframe class="twtr-widget" height="400px" width="250px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="twidget.php"></iframe>	
 				<h2>Eckdaten</h2>
 				<p>
 					<strong>Datum:</strong> 3. und 4. November 2012<br />
