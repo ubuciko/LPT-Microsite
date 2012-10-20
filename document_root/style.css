@@ -1,8 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400italic,400,700);
 
 body {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 9pt;
+	font-family: 'Roboto', sans-serif;
+	font-size: 9.5pt;
 	background-color: #ccc;
 	color: #444;
 	background-image: -webkit-linear-gradient(top, #bbb, #ccc);
@@ -79,6 +79,7 @@ ul.nav a {
 }
 
 #content {
+	line-height: 150%;
 	padding: 20px;
 	background-color: #fff;
 	border-bottom-right-radius: 3px;
@@ -119,7 +120,7 @@ p.extern a {
 	margin-right: 10px;
 	text-decoration: none;
 	font-weight: bold;
-	font-size: 10.5pt;
+	font-size: 11.5pt;
 	border-bottom: 3px solid #ccc;
 	border-radius: 5px;
 }
@@ -139,14 +140,15 @@ p.extern img {
 iframe.cframe {
 	border: 1px solid #ccc;
 	padding: 2px;
+	margin: 0px;
 }
 
 input.text {
 	outline: none;
 	border: 1px solid #bbb;
 	border-top: none;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 10pt;
+	font-family: 'Roboto', sans-serif;
+	font-size: 9.5pt;
 	width: 25em;
 	background: #eee;
 	background:-moz-linear-gradient(0% 100% 90deg,#ddd, #fff);
@@ -161,8 +163,8 @@ textarea.anmerkungen {
 	outline: none;
 	border: 1px solid #bbb;
 	border-top: none;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 10pt;
+	font-family: 'Roboto', sans-serif;
+	font-size: 9.5pt;
 	width: 25em;
 	background: #eee;
 	background:-moz-linear-gradient(0% 100% 90deg,#ddd, #fff);
@@ -194,9 +196,9 @@ input.button {
 	background: #ddd;
 	padding: 7px 15px;
 	margin-right: 10px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
-	font-size: 10.5pt;
+	font-size: 10pt;
 	border: none;
 	border-bottom: 3px solid #ccc;
 	border-radius: 5px;
@@ -209,9 +211,14 @@ input.button:hover {
 	cursor:pointer;
 }
 
-#content iframe.twtr-widget {
+iframe.twtr-widget {
     float: right;
-    width: 250px;
-    padding-left: 5px;
+    width: 265px;
+    height: 375px;
     margin: 0px 0px 20px 20px;
+    border: none;
+}
+
+iframe.captcha {
+	border: none;
 }

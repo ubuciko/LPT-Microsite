@@ -18,12 +18,12 @@ require('head.php');
 				<li><a href="impressum.php">Impressum &amp; Kontakt</a></li>
 			</ul>
 			<div id="content">
-				<iframe class="twtr-widget" height="400px" width="250px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="twidget.php"></iframe>	
+				<iframe class="twtr-widget" height="375" width="265" src="twidget.php"></iframe>
 				<h2>Eckdaten</h2>
 				<p>
 					<strong>Datum:</strong> 3. und 4. November 2012<br />
-					<strong>Akkreditierung</strong> ab 9 Uhr<br />
-					<strong>Beginn</strong> ab 10 Uhr<br />
+					<strong>Akkreditierung:</strong> ab 9 Uhr<br />
+					<strong>Beginn:</strong> ab 10 Uhr<br />
 				</p>
 				<h3>Veranstaltungsort:</h3>
 				<p>

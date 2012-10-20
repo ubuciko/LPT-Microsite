@@ -25,7 +25,7 @@ require('head.php');
 				07607 Eisenberg<br />
 				</p>
 				<h2>Anfahrtsskizze</h2>
-				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=11.89517,50.96753,11.9039,50.97167&amp;layer=mapnik&amp;marker=50.96950,11.89958" class="cframe"></iframe>
+				<iframe width="580" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=11.89517,50.96753,11.9039,50.97167&amp;layer=mapnik&amp;marker=50.96950,11.89958" class="cframe"></iframe>
 				<h2>Externe Medien</h2>
 				<p class="extern">
 					<a href="http://goo.gl/maps/3YNt1"><img src="route.png" alt="Route" />Routenplaner</a>
