@@ -11,6 +11,7 @@ require('head.php');
 			</div>
 			<ul class="nav">
 				<li class="active"><a href="index.php">Hauptseite</a></li>
+				<li><a href="tagesordnung.php">Tagesordnung</a></li>
 				<li><a href="anmeldung.php">Anmeldung</a></li>
 				<li><a href="anfahrt.php">Anfahrt</a></li>
 				<li><a href="verpflegung.php">Verpflegung &amp; Übernachtung</a></li>
