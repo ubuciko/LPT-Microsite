@@ -40,8 +40,8 @@ require('head.php');
 				
 				<h2>Externe Medien</h2>
 				<p class="extern">
-					<a href="http://www.piraten-streaming.de/?page_id=688&id=596"><img src="stream.png" alt="Livestream" />Stream AV</a>
-					<a href="http://www.piraten-streaming.de/?page_id=688&id=595"><img src="stream.png" alt="Livestream" />Stream LPT</a>
+					<a href="http://www.piraten-streaming.de/?page_id=688&amp;id=596"><img src="stream.png" alt="Livestream" />Stream AV</a>
+					<!-- <a href="http://www.piraten-streaming.de/?page_id=688&amp;id=595"><img src="stream.png" alt="Livestream" />Stream LPT</a> -->
 					<a href="http://wiki.piraten-thueringen.de/TH:Landesparteitag_2012.2/Antragsportal"><img src="antragsfabrik.png" alt="Antragsportal" />Antragsportal</a>
 					<a href="http://wiki.piraten-thueringen.de/images/5/50/Piraten_TH_Antragsbuch_2012-2.pdf"><img src="antragsbuch.png" alt="Antragsbuch" />Antragsbuch herunterladen</a>
 				</p>
