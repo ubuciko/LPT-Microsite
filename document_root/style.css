@@ -139,7 +139,7 @@ p.extern a:hover {
 p.extern img {
 	width: 24px;
 	margin-right: 5px;
-	vertical-align: bottom;
+	vertical-align: text-bottom;
 }
 
 iframe.cframe {
