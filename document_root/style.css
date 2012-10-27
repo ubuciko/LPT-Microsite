@@ -51,9 +51,9 @@ img.logo {
 
 ul.nav				{
 	background: #222;
-	padding:0 5px;
-	font-size:13px;
-	color:#fff;
+	padding: 0px 0px 0px 3px;
+	font-size: 13px;
+	color: #fff;
 	overflow:hidden;
 	background:-moz-linear-gradient(0% 100% 90deg,#222, #000);
 	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#000), to(#222));
@@ -61,19 +61,23 @@ ul.nav				{
 	margin: 0;
 	border-top: solid 3px #F80;
 }
+
 ul.nav li	{
 	float:left;
 	padding:7px 8px;
 }
+
 ul.nav li.active {
 	color:#363636;
 	font-weight:bold;
 	background: #333;
 }
+
 ul.nav li:hover	{
 	background:#444;
 	cursor:pointer;
 }
+
 ul.nav a {
 	color: #ccc;
 	text-decoration:none;
@@ -135,7 +139,7 @@ p.extern a:hover {
 p.extern img {
 	width: 24px;
 	margin-right: 5px;
-	vertical-align: text-bottom;
+	vertical-align: bottom;
 }
 
 iframe.cframe {
