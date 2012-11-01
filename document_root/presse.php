@@ -25,7 +25,7 @@ require('head.php');
 				<p><strong>Die Presseakkreditierung findet an beiden Tagen ab 9 Uhr statt.</strong></p>
 				<p>Die Pressemappe zum Landesparteitag finden Sie hier als Download:</p>
 				<p class="extern">
-					<a href="http://www.piraten-thueringen.de/wp-content/uploads/2012/08/Pressemappe_August_2012.pdf"><img src="pdf.png" alt="PDF Logo" />Pressemappe</a>
+					<a href="pressemappe.pdf"><img src="pdf.png" alt="PDF Logo" />Pressemappe</a>
 				</p><br />
 				<p>Haben Sie noch weitere Fragen? Dann schicken Sie doch einfach eine Mail an presse@piraten-thueringen.de oder rufen uns an unter 0361-6606878.</p>
 				<h2>Service für Journalisten</h2>
